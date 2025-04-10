@@ -1,7 +1,6 @@
 *
 
-!*.md
-!*.png
-
+!**/*.md
+!**/*.png
 !.gitignore
-!*/.gitkeep
+!**/.gitkeep
